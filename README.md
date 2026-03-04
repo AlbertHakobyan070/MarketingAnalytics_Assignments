@@ -58,6 +58,6 @@ OLED TV shipment data (2013–2025) was compiled from free, publicly accessible 
 
 1. Open `bass_model_analysis.Rmd` in RStudio
 2. Make sure `./data/OLED_TV_Global_Annual_Shipments_2013_2025.csv` is in place
-3. Knit to PDF
+3. Knit to HTML
 
 Required packages: `ggplot2`, `ggpubr`, `knitr`, `diffusion` (installed automatically by the script).
